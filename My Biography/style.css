@@ -3,6 +3,7 @@
     padding: 5px;
     box-sizing: border-box;
     color: #000;
+    word-spacing: 5px;
     background-color: rgba(250, 235, 215, 0.209);
 }
 
@@ -23,7 +24,7 @@ div:nth-of-type(1){
     top: 50;
     left: 50;
     color: #000;
-    background-color: #404104bc;
+    background-color: #04294172;
 } 
 div:nth-of-type(2){
     box-sizing: border-box;
