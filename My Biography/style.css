@@ -1,0 +1,16 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+
+div{
+    height: 100%;
+    width: 100%;
+    background-color: antiquewhite;
+}
+div:nth-of-type(1){
+    box-sizing: content-box;
+    color: #000;
+}
